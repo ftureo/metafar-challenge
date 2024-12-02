@@ -10,8 +10,8 @@ Una API Backend for Frontend (BFF) que sirve como intermediario para consumir da
 ### **1. Clonar este repositorio**
 
 ```bash
-git clone 
-cd 
+git clone https://github.com/ftureo/metafar-challenge
+cd metafar-challenge
 ```
 
 ### **2. Instalar las dependencias**
